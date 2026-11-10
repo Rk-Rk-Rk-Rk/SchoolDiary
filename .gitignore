@@ -1,0 +1,29 @@
+## Visual Studio / .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*~
+
+# MS Access locks
+*.ldb
+*.laccdb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local scripts & assignment docs
+*.docx
+*.ps1
